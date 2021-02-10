@@ -92,19 +92,19 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS\fonts\fontawesome-webfont.svg" />
-    <Content Include="CSS\ie\html5shiv.js" />
-    <Content Include="CSS\ie\PIE.htc" />
-    <Content Include="CSS\ie\v8.css" />
-    <Content Include="CSS\images\arrow.png" />
-    <Content Include="CSS\skel.css" />
-    <Content Include="CSS\style-mobile.css" />
-    <Content Include="CSS\style-narrow.css" />
-    <Content Include="CSS\style-narrower.css" />
-    <Content Include="CSS\style-normal.css" />
-    <Content Include="CSS\style-wide.css" />
-    <Content Include="CSS\style.css" />
-    <Content Include="CSS\font-awesome.min.css" />
+    <Content Include="css\fonts\fontawesome-webfont.svg" />
+    <Content Include="css\ie\html5shiv.js" />
+    <Content Include="css\ie\PIE.htc" />
+    <Content Include="css\ie\v8.css" />
+    <Content Include="css\images\arrow.png" />
+    <Content Include="css\skel.css" />
+    <Content Include="css\style-mobile.css" />
+    <Content Include="css\style-narrow.css" />
+    <Content Include="css\style-narrower.css" />
+    <Content Include="css\style-normal.css" />
+    <Content Include="css\style-wide.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\font-awesome.min.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
@@ -152,10 +152,10 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CSS\fonts\fontawesome-webfont.eot" />
-    <Content Include="CSS\fonts\fontawesome-webfont.ttf" />
-    <Content Include="CSS\fonts\fontawesome-webfont.woff" />
-    <Content Include="CSS\fonts\FontAwesome.otf" />
+    <Content Include="css\fonts\fontawesome-webfont.eot" />
+    <Content Include="css\fonts\fontawesome-webfont.ttf" />
+    <Content Include="css\fonts\fontawesome-webfont.woff" />
+    <Content Include="css\fonts\FontAwesome.otf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
